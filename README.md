@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **j2ee project**
 
-- 🌱 I’m currently learning **j2ee**
+- 🌱 I’m currently learning **spring boot / mern stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdeLKabir-56](https://github.com/abdeLKabir-56)
 
