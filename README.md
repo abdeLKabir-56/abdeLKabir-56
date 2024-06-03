@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **j2ee project**
+- 🔭 I’m currently working on **Marketify project**
 
-- 🌱 I’m currently learning **spring boot / mern stack**
+- 🌱 I’m currently learning **spring boot / Angular / mern stack/machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdeLKabir-56](https://github.com/abdeLKabir-56)
 
-- 💬 Ask me about **machine learning,reactjs,nextjs,laravel**
+- 💬 Ask me about **machine learning,reactjs,nextjs,laravel,php,c#,mysql,mongodb,oracle,hadoop,..**
 
 - 📫 How to reach me **abdelkabirelhamoussi@gmail.com**
 
