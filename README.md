@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdelkabir Elhamoussi</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelkabir-56" alt="Visitor Count" />
+</p>
 
+### About Me
 
-- 🔭 I’m currently working on **Marketify project**
+I am a software engineer with a passion for developing innovative programs. I have experience in a wide range of programming languages and frameworks, and I enjoy learning about new technologies and applying them to solve real-world problems.
 
-- 🌱 I’m currently learning **spring boot / Angular / mern stack/machine learning**
+### Currently
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdeLKabir-56](https://github.com/abdeLKabir-56)
-
-- 💬 Ask me about **machine learning,reactjs,nextjs,laravel,php,c#,mysql,mongodb,oracle,hadoop,..**
+- 🔭 I’m currently working on [Marketify](https://github.com/abdelkabir-56/marketify), a marketplace platform that connects buyers and sellers efficiently.
+- 🌱 I’m currently learning **Spring Boot, Angular, MERN Stack, and Machine Learning**. I enjoy exploring new technologies and applying them to real-world projects.
 
 - 📫 How to reach me **abdelkabirelhamoussi@gmail.com**
 
