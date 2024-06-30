@@ -8,7 +8,7 @@
 ### About Me
 
 I am a software engineer with a passion for developing innovative programs. I have experience in a wide range of programming languages and frameworks, and I enjoy learning about new technologies and applying them to solve real-world problems.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bouali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
 ### Currently
 
 - 🔭 I’m currently working on [Marketify](https://github.com/abdelkabir-56/marketify), a marketplace platform that connects buyers and sellers efficiently.
