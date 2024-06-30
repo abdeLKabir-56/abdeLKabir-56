@@ -157,7 +157,7 @@ I am a dedicated software engineer with a passion for developing innovative prog
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
-<div align="center">
+<div align="center" style="margin: 10 px;">
 <a href="https://github.com/abdeLKabir-56">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeLKabir-56" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeLKabir-56" height="180em" />
