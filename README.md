@@ -157,3 +157,12 @@ I am a dedicated software engineer with a passion for developing innovative prog
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
+<div align="center">
+  <a href="https://github.com/abdeLKabir-56">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeLKabir-56&theme=github_light" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeLKabir-56&theme=github_light" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdeLKabir-56&theme=github_light" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdeLKabir-56&theme=github_light" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeLKabir-56&theme=github_light" height="180em" />
+  </a>
+</div>
