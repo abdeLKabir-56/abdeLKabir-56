@@ -166,3 +166,5 @@ I am a dedicated software engineer with a passion for developing innovative prog
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeLKabir-56&theme=github_light" height="180em" />
   </a>
 </div>
+
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdeLKabir-56&theme=github-light" alt="abdeLKabir-56" /></p>
