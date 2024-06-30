@@ -159,11 +159,12 @@ I am a dedicated software engineer with a passion for developing innovative prog
 </p>
 <div align="center">
 <a href="https://github.com/abdeLKabir-56">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeLKabir-56&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeLKabir-56&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdeLKabir-56&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdeLKabir-56&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeLKabir-56&theme=2077" height="180em" />
-</div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeLKabir-56" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeLKabir-56" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdeLKabir-56" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdeLKabir-56" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeLKabir-56" height="180em" />
+
 
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdeLKabir-56&" alt="abdeLKabir-56" /></p>
+</div>
