@@ -42,9 +42,6 @@ I believe in continuous learning and staying up-to-date with the latest industry
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeLKabir-56" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeLKabir-56" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdeLKabir-56" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdeLKabir-56" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeLKabir-56" height="180em" />
 </div>
 
 <p align="center">
