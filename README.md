@@ -39,11 +39,8 @@ I believe in continuous learning and staying up-to-date with the latest industry
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeLKabir-56" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeLKabir-56" height="180em" />
-</div>
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdeLKabir-56&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdeLKabir-56" alt="GitHub Streak" />
 </p>
